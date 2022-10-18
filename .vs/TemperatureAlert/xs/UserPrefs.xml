@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{83EDB239-E4B3-483F-8868-3E2A45817629}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TemperatureAlert/Program.cs">
+    <Files>
+      <File FileName="TemperatureAlert/Program.cs" Line="7" Column="40" />
+      <File FileName="TemperatureAlert/TemperatureAlert.cs" />
+      <File FileName="TemperatureAlert/DiceThrow.cs" Line="6" Column="35" />
+      <File FileName="TemperatureAlert/NFactorial.cs" Line="12" Column="33" />
+      <File FileName="TemperatureAlert/ReverseArray.cs" Line="20" Column="6" />
+      <File FileName="TemperatureAlert/ScoresAverage.cs" Line="37" Column="6" />
+      <File FileName="TemperatureAlert/Greeting.cs" Line="8" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TemperatureAlert" expanded="True">
+            <Node name="TemperatureAlert" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TemperatureAlert PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
